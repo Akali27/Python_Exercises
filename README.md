@@ -1,4 +1,4 @@
-# Python_Challenges
+# Python_Exercises
 
 Two challenges to solve using Python by reading the large csv datasets. 
 
