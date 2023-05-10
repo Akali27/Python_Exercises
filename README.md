@@ -4,7 +4,7 @@ Two challenges to solve using Python by reading the large csv datasets.
 
 ## Description
 
-1-finance_records: Creating a script for analyzing a company's financial records. The script calculates the following:
+1-finance_records: The script to analyze a company's financial records calculates the following:
 * The total number of months included in the dataset.
 * The total amount of revenue gained over the entire period.
 * The average change in revenue between months over the entire period.
@@ -12,7 +12,7 @@ Two challenges to solve using Python by reading the large csv datasets.
 * The greatest decrease in revenue over the entire period.
 
 
-2-vote_counting: Analyzing poll data to determine the following: 
+2-vote_counting: The script to analyze poll data calculates the following: 
 * The total number of votes cast.
 * A complete list of candidates who received votes.
 * The percentage of votes each candidate won.
