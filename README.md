@@ -1,4 +1,4 @@
-## Election Analysis and Financial Analysis 
+## Election Analysis and Financial Analysis in Python
 
 This repository contains two Python scripts that analyze election and financial data. Both scripts read data from CSV files, process the data, print the results before writing the data to text files.
 
