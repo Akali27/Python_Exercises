@@ -4,7 +4,7 @@ This repository contains two Python scripts that analyze election and financial 
 
 ## Scripts
 
-1-election_analysis.py: The script analyzes a company's financial records and calculates the following:
+1) election_analysis.py: The script analyzes a company's financial records and calculates the following:
  - The total number of months included in the dataset.
  - The total amount of revenue gained over the entire period.
  - The average change in revenue between months over the entire period.
@@ -12,7 +12,7 @@ This repository contains two Python scripts that analyze election and financial 
  - The greatest decrease in revenue over the entire period.
 
 
-2-financial_analysis.py: The script analyzes poll data and calculates the following: 
+2) financial_analysis.py: The script analyzes poll data and calculates the following: 
 - The total number of votes cast.
 - A complete list of candidates who received votes.
 - The percentage of votes each candidate won.
