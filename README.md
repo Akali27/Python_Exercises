@@ -12,7 +12,7 @@ This repository contains two Python scripts that analyze election and financial 
  - The greatest decrease in revenue over the entire period.
 
 
-2) financial_analysis.py: The script analyzes poll data and calculates the following: 
+2) budget_calc.py: The script analyzes poll data and calculates the following: 
 - The total number of votes cast.
 - A complete list of candidates who received votes.
 - The percentage of votes each candidate won.
